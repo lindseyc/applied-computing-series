@@ -15,11 +15,29 @@ Question: Match each scatter plot to each description.
 1. The explanatory variable (x) is age in years and the explained
    variable (y) is the annual salary for a sample of working adults
    between the ages of 18 and 65.
-
-   ::Answer: Bottom Left. Most adults make more money as they get older, but
+     ::Answer: Bottom Left. Most adults make more money as they get older, but
      there are many other factors, like education and career that also impact
      salary.
 
+   .. mchoice:: identify_scatterplot_1
+
+   The explanatory variable (x) is age in years and the explained
+   variable (y) is the annual salary for a sample of working adults
+   between the ages of 18 and 65.
+
+   - E
+
+     + Correct: Most adults make more money as they get older, but
+     there are many other factors, like education and career that also impact
+     salary.
+
+   - A
+
+     - Incorrect: fill. 
+
+   - D
+
+     - Incorrect: fill. 
 
 2. The explanatory variable (x) is the mean commute time in minutes and
    the explained variable (y) is height in inches for a sample of
@@ -27,6 +45,29 @@ Question: Match each scatter plot to each description.
 
    ::Answer: Bottom Right. There’s no real relationship between height and
      commute time.
+
+.. mchoice:: identify_scatterplot_2
+
+   The explanatory variable (x) is the mean commute time in minutes and
+   the explained variable (y) is height in inches for a sample of
+   employees at a small company.
+
+   - F
+
+     + Correct: There’s no real relationship between height and
+     commute time.
+
+   - A
+
+     - Incorrect: fill. 
+
+   - D
+
+     - Incorrect: fill. 
+
+   - B
+
+     - Incorrect: fill. 
 
 3. The explanatory variable (x) is the month of the year, starting in
    January, and the explained variable (y) is the mean temperature for
@@ -37,12 +78,61 @@ Question: Match each scatter plot to each description.
      close to the end points 1 = January and 12 = December, and higher
      temperatures in the middle.
 
+.. mchoice:: identify_scatterplot_3
+
+   The explanatory variable (x) is the month of the year, starting in
+   January, and the explained variable (y) is the mean temperature for
+   that month for St. Louis, Missouri which has cold winters and warm
+   summers.
+
+   - C
+
+     + Correct: Cold winters and warm summers means smaller values
+     close to the end points 1 = January and 12 = December, and higher
+     temperatures in the middle.
+
+   - A
+
+     - Incorrect: fill. 
+
+   - D
+
+     - Incorrect: fill. 
+
+   - B
+
+     - Incorrect: fill. 
+
 4. The explanatory variable (x) is the city miles per gallon and the
    explained variable (y) is the highway miles per gallon for a sample
    of cars.
 
    ::Answer: Top Right. Cars with higher city mpg also have higher highway
      mpg.
+
+.. mchoice:: identify_scatterplot_4
+
+   The explanatory variable (x) is the city miles per gallon and the
+   explained variable (y) is the highway miles per gallon for a sample
+   of cars.
+
+   - C
+
+     - Incorrect: fill.
+
+   - A
+
+     - Incorrect: fill. 
+
+   - D
+
+     - Incorrect: fill. 
+
+   - B
+
+     + Correct: Cars with higher city mpg also have higher highway
+     mpg. 
+
 
 5. The explanatory variable (x) is the number of hours after e-coli has
    been introduced to a petri dish and the explained variable (y) is the
@@ -54,6 +144,32 @@ Question: Match each scatter plot to each description.
      the change every 20 minutes at the end of the experiment when there are
      much more cells dividing.
 
+.. mchoice:: identify_scatterplot_5
+
+   The explanatory variable (x) is the number of hours after e-coli has
+   been introduced to a petri dish and the explained variable (y) is the
+   estimated number of e-coli cells after t hours. The number of cells
+   doubles about every 20 minutes.
+
+   - C
+
+     - Incorrect: fill.
+
+   - A
+
+     + Correct: Because the number of cells is doubling, the change
+     every 20 minutes at the beginning of the experiment is small compared to
+     the change every 20 minutes at the end of the experiment when there are
+     much more cells dividing. 
+
+   - D
+
+     - Incorrect: fill. 
+
+   - B
+
+     - Incorrect: fill. 
+
 6. The explanatory variable (x) is the years of driving experience and the
    explained variable (y) is the insurance premium paid for a sample of drivers.
 
@@ -61,7 +177,29 @@ Question: Match each scatter plot to each description.
      safer, so they pay smaller premiums. Similarly, drivers with less driving
      experience are considered riskier and pay greater premiums.
 
-[TODO] Insert all images
+.. mchoice:: identify_scatterplot_6
+
+   The explanatory variable (x) is the years of driving experience and the
+   explained variable (y) is the insurance premium paid for a sample of drivers.
+
+   - C
+
+     - Incorrect: fill.
+
+   - A
+
+     - Incorrect: fill. 
+
+   - D
+
+     + Correct: Drivers with more driving experience are considered
+     safer, so they pay smaller premiums. Similarly, drivers with less driving
+     experience are considered riskier and pay greater premiums. 
+
+   - B
+
+     - Incorrect: fill. 
+
 
 When describing the shape of the scatter plot and the relationship
 between the explanatory and explained variable, there are three
@@ -82,7 +220,9 @@ important features to discuss.
    to a straight line. Scatter plots are described as linear or
    nonlinear.
 
-[TODO] Insert images
+.. image:: figures/january_scatterplot.png
+      :align: center
+      :alt: A scatterplot depicting the temperature in January across latitudes.
 
 For example, the scatterplot of latitude and January temperatures had
 negative direction, as the greater the latitude, the colder the
@@ -92,6 +232,22 @@ temperate winters, such as Portland, OR) there is a strong, linear
 trend.
 
 Question: Match each scatterplot below with its description.
+
+.. image:: figures/mult_choice_plots_abstract.png
+      :align: center
+      :alt: Six scatterplots labeled A through F. 
+
+
+.. dragndrop:: dnd-ex-1
+   :feedback: Feedback that is displayed if things are incorrectly matched.
+   :match_1: A|||Positive, strong, nonlinear
+   :match_2: B|||Positive, strong, linear
+   :match_3: C|||Neither positive nor negative, strong, nonlinear
+   :match_3: D|||Negative, moderate, linear
+   :match_3: E|||Positive, moderate, linear
+   :match_3: F|||No relationship
+
+   Match each scatterplot from above with its description.
 
 1. Neither positive nor negative, strong, nonlinear
 
@@ -117,4 +273,4 @@ Question: Match each scatterplot below with its description.
 
    ::Top left
 
-[TODO] Insert images
+
