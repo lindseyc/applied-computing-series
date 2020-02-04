@@ -19,7 +19,7 @@ Question: Match each scatter plot to each description.
      there are many other factors, like education and career that also impact
      salary.
 
-   .. mchoice:: identify_scatterplot_1
+.. mchoice:: identify_scatterplot_1
 
    The explanatory variable (x) is age in years and the explained
    variable (y) is the annual salary for a sample of working adults
