@@ -8,6 +8,10 @@ Describing Scatter Plots
 
 Question: Match each scatter plot to each description.
 
+.. image:: figures/mult_choice_plots.png
+      :align: center
+      :alt: Scatterplots labeled A through F.
+
 1. The explanatory variable (x) is age in years and the explained
    variable (y) is the annual salary for a sample of working adults
    between the ages of 18 and 65.
