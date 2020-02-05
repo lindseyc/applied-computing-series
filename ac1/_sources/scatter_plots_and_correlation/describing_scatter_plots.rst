@@ -179,27 +179,46 @@ Question: Match each scatter plot to each description.
 
 .. mchoice:: identify_scatterplot_6
 
-   The explanatory variable (x) is the years of driving experience and the
-   explained variable (y) is the insurance premium paid for a sample of drivers.
+    The explanatory variable (x) is the years of driving experience and the
+    explained variable (y) is the insurance premium paid for a sample of drivers.
+    
+    - C
+    
+      - Incorrect: fill.
+    
+    - A
+    
+      - Incorrect: fill. 
+    
+    - D
+    
+      + Correct: Drivers with more driving experience are considered
+    safer, so they pay smaller premiums. Similarly, drivers with less driving
+    experience are considered riskier and pay greater premiums. 
+    
+    - B
+    
+      - Incorrect: fill. 
 
-   - C
+.. mchoice:: mc-ex-2
 
-     - Incorrect: fill.
+   Which colors are found in the rainbow?
 
-   - A
+   - Red
 
-     - Incorrect: fill. 
+     + Yes, red is a correct rainbow color.
 
-   - D
+   - White
 
-     + Correct: Drivers with more driving experience are considered
-     safer, so they pay smaller premiums. Similarly, drivers with less driving
-     experience are considered riskier and pay greater premiums. 
+     - White is not a color found in a rainbow.
 
-   - B
+   - Blue
 
-     - Incorrect: fill. 
+     + Yes, blue is a correct rainbow color.
 
+   - Grey
+
+     - Grey is not a color found in a rainbow.
 
 When describing the shape of the scatter plot and the relationship
 between the explanatory and explained variable, there are three
@@ -243,9 +262,9 @@ Question: Match each scatterplot below with its description.
    :match_1: A|||Positive, strong, nonlinear
    :match_2: B|||Positive, strong, linear
    :match_3: C|||Neither positive nor negative, strong, nonlinear
-   :match_3: D|||Negative, moderate, linear
-   :match_3: E|||Positive, moderate, linear
-   :match_3: F|||No relationship
+   :match_4: D|||Negative, moderate, linear
+   :match_5: E|||Positive, moderate, linear
+   :match_6: F|||No relationship
 
    Match each scatterplot from above with its description.
 
