@@ -136,9 +136,10 @@ to examine the scatterplots pictured and then match them with their description.
     
     - Incorrect 
 
-When describing the shape of the scatter plot and the relationship
-between the explanatory and explained variable, there are three
-important features to discuss.
+This exercise would be simpler given uniform adjectives that everyone could
+understand. When describing the shape of the scatter plot and the relationship
+between the explanatory and explained variable, there are three important
+features to discuss.
 
 -  The **direction** of a scatter plot can be described as positive or
    negative. The direction is positive when the explained variable
@@ -164,6 +165,9 @@ negative direction, as the greater the latitude, the colder the
 temperature. Though there are a few :ref:`outliers<outliers_and_skew>` (cities
 along the northwest coast of the US that have temperate winters, such as 
 Portland, OR) there is a strong, linear trend.
+
+Given this set of scatterplots repeat the same activity from above, now with the
+new descriptions of strength, linearity and direction.
 
 .. image:: figures/mult_choice_plots_abstract.png
       :align: center
