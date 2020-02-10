@@ -166,8 +166,8 @@ temperature. Though there are a few :ref:`outliers<outliers_and_skew>` (cities
 along the northwest coast of the US that have temperate winters, such as 
 Portland, OR) there is a strong, linear trend.
 
-Given this set of scatterplots repeat the same activity from above, now with the
-new descriptions of strength, linearity and direction.
+Given a new set of scatterplots below, repeat the same exercise, but now with 
+the new descriptions of strength, linearity and direction.
 
 .. image:: figures/mult_choice_plots_abstract.png
       :align: center
