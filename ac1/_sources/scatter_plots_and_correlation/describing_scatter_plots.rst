@@ -6,219 +6,135 @@
 Describing Scatter Plots
 ========================
 
-Question: Match each scatter plot to each description.
+In this section you will learn how to identify the relationship between
+variables within scatterplots. These are the **explanatory** and the 
+**explained** variable that were by defined earlier in 
+the:ref:`scatterplots section<scatter_plots>`. The following activities ask you
+to examine the scatterplots pictured and then match them with their description.
 
 .. image:: figures/mult_choice_plots.png
       :align: center
       :alt: Scatterplots labeled A through F.
 
-1. The explanatory variable (x) is age in years and the explained
-   variable (y) is the annual salary for a sample of working adults
-   between the ages of 18 and 65.
-     ::Answer: Bottom Left. Most adults make more money as they get older, but
-     there are many other factors, like education and career that also impact
-     salary.
-
 .. mchoice:: identify_scatterplot_1
 
-   The explanatory variable (x) is age in years and the explained
-   variable (y) is the annual salary for a sample of working adults
-   between the ages of 18 and 65.
+   The explanatory variable (x) is age in years and the explained variable (y) is the annual salary for a sample of working adults between the ages of 18 and 65.
 
-   - E
+  - E
 
-     + Correct: Most adults make more money as they get older, but
-     there are many other factors, like education and career that also impact
-     salary.
+    + Correct: Most adults make more money as they get older, but there are many other factors, like education and career that also impact salary.
 
-   - A
+  - A
 
-     - Incorrect: fill. 
+    - Incorrect 
 
-   - D
+  - D
 
-     - Incorrect: fill. 
+    - Incorrect 
+  
+  - F
 
-2. The explanatory variable (x) is the mean commute time in minutes and
-   the explained variable (y) is height in inches for a sample of
-   employees at a small company.
-
-   ::Answer: Bottom Right. There’s no real relationship between height and
-     commute time.
+    - Incorrect
 
 .. mchoice:: identify_scatterplot_2
 
-   The explanatory variable (x) is the mean commute time in minutes and
-   the explained variable (y) is height in inches for a sample of
-   employees at a small company.
+   The explanatory variable (x) is the mean commute time in minutes and the explained variable (y) is height in inches for a sample of employees at a small company.
 
-   - F
+  - F
 
-     + Correct: There’s no real relationship between height and
-     commute time.
+    + Correct: There’s no real relationship between height and commute time.
 
-   - A
+  - A
 
-     - Incorrect: fill. 
+    - Incorrect 
 
-   - D
+  - D
 
-     - Incorrect: fill. 
+    - Incorrect 
 
-   - B
+  - B
 
-     - Incorrect: fill. 
-
-3. The explanatory variable (x) is the month of the year, starting in
-   January, and the explained variable (y) is the mean temperature for
-   that month for St. Louis, Missouri which has cold winters and warm
-   summers.
-
-   ::Answer: Middle left. Cold winters and warm summers means smaller values
-     close to the end points 1 = January and 12 = December, and higher
-     temperatures in the middle.
+    - Incorrect 
 
 .. mchoice:: identify_scatterplot_3
 
-   The explanatory variable (x) is the month of the year, starting in
-   January, and the explained variable (y) is the mean temperature for
-   that month for St. Louis, Missouri which has cold winters and warm
-   summers.
+   The explanatory variable (x) is the month of the year, starting in January, and the explained variable (y) is the mean temperature for that month for St. Louis, Missouri which has cold winters and warm summers.
 
-   - C
+  - C
 
-     + Correct: Cold winters and warm summers means smaller values
-     close to the end points 1 = January and 12 = December, and higher
-     temperatures in the middle.
+    + Correct: Cold winters and warm summers means smaller values close to the end points 1 = January and 12 = December, and higher temperatures in the middle.
 
-   - A
+  - A
 
-     - Incorrect: fill. 
+    - Incorrect 
 
-   - D
+  - D
 
-     - Incorrect: fill. 
+    - Incorrect 
 
-   - B
+  - B
 
-     - Incorrect: fill. 
-
-4. The explanatory variable (x) is the city miles per gallon and the
-   explained variable (y) is the highway miles per gallon for a sample
-   of cars.
-
-   ::Answer: Top Right. Cars with higher city mpg also have higher highway
-     mpg.
+    - Incorrect 
 
 .. mchoice:: identify_scatterplot_4
 
-   The explanatory variable (x) is the city miles per gallon and the
-   explained variable (y) is the highway miles per gallon for a sample
-   of cars.
+   The explanatory variable (x) is the city miles per gallon and the explained variable (y) is the highway miles per gallon for a sample of cars.
 
-   - C
+  - C
 
-     - Incorrect: fill.
+    - Incorrect
 
-   - A
+  - A
 
-     - Incorrect: fill. 
+    - Incorrect 
 
-   - D
+  - D
 
-     - Incorrect: fill. 
+    - Incorrect 
 
-   - B
+  - B
 
-     + Correct: Cars with higher city mpg also have higher highway
-     mpg. 
-
-
-5. The explanatory variable (x) is the number of hours after e-coli has
-   been introduced to a petri dish and the explained variable (y) is the
-   estimated number of e-coli cells after t hours. The number of cells
-   doubles about every 20 minutes.
-
-   ::Answer: Top left. Because the number of cells is doubling, the change
-     every 20 minutes at the beginning of the experiment is small compared to
-     the change every 20 minutes at the end of the experiment when there are
-     much more cells dividing.
+    + Correct: Cars with higher city mpg also have higher highway mpg. 
 
 .. mchoice:: identify_scatterplot_5
 
-   The explanatory variable (x) is the number of hours after e-coli has
-   been introduced to a petri dish and the explained variable (y) is the
-   estimated number of e-coli cells after t hours. The number of cells
-   doubles about every 20 minutes.
+   The explanatory variable (x) is the number of hours after e-coli has been introduced to a petri dish and the explained variable (y) is the estimated number of e-coli cells after t hours. The number of cells doubles about every 20 minutes.
 
-   - C
+  - C
 
-     - Incorrect: fill.
+    - Incorrect
 
-   - A
+  - A
 
-     + Correct: Because the number of cells is doubling, the change
-     every 20 minutes at the beginning of the experiment is small compared to
-     the change every 20 minutes at the end of the experiment when there are
-     much more cells dividing. 
+    + Correct: Because the number of cells is doubling, the change every 20 minutes at the beginning of the experiment is small compared to the change every 20 minutes at the end of the experiment when there are much more cells dividing. 
 
-   - D
+  - D
 
-     - Incorrect: fill. 
+    - Incorrect 
 
-   - B
+  - B
 
-     - Incorrect: fill. 
-
-6. The explanatory variable (x) is the years of driving experience and the
-   explained variable (y) is the insurance premium paid for a sample of drivers.
-
-   ::Answer: Middle Right. Drivers with more driving experience are considered
-     safer, so they pay smaller premiums. Similarly, drivers with less driving
-     experience are considered riskier and pay greater premiums.
+    - Incorrect 
 
 .. mchoice:: identify_scatterplot_6
 
-    The explanatory variable (x) is the years of driving experience and the
-    explained variable (y) is the insurance premium paid for a sample of drivers.
+  The explanatory variable (x) is the years of driving experience and the explained variable (y) is the insurance premium paid for a sample of drivers.
     
-    - C
+  - C
+
+    - Incorrect
     
-      - Incorrect: fill.
+  - A
+
+    - Incorrect: 
     
-    - A
+  - D
     
-      - Incorrect: fill. 
+    + Correct: Drivers with more driving experience are considered safer, so they pay smaller premiums. Similarly, drivers with less driving experience are considered riskier and pay greater premiums. 
     
-    - D
+  - B
     
-      + Correct: Drivers with more driving experience are considered
-    safer, so they pay smaller premiums. Similarly, drivers with less driving
-    experience are considered riskier and pay greater premiums. 
-    
-    - B
-    
-      - Incorrect: fill. 
-
-.. mchoice:: mc-ex-2
-
-   Which colors are found in the rainbow?
-
-   - Red
-
-     + Yes, red is a correct rainbow color.
-
-   - White
-
-     - White is not a color found in a rainbow.
-
-   - Blue
-
-     + Yes, blue is a correct rainbow color.
-
-   - Grey
-
-     - Grey is not a color found in a rainbow.
+    - Incorrect 
 
 When describing the shape of the scatter plot and the relationship
 between the explanatory and explained variable, there are three
@@ -245,20 +161,16 @@ important features to discuss.
 
 For example, the scatterplot of latitude and January temperatures had
 negative direction, as the greater the latitude, the colder the
-temperature. Though there are a few outliers *(link to module A outliers
-section)* (cities along the northwest coast of the US that have
-temperate winters, such as Portland, OR) there is a strong, linear
-trend.
-
-Question: Match each scatterplot below with its description.
+temperature. Though there are a few :ref:`outliers<outliers_and_skew>` (cities
+along the northwest coast of the US that have temperate winters, such as 
+Portland, OR) there is a strong, linear trend.
 
 .. image:: figures/mult_choice_plots_abstract.png
       :align: center
       :alt: Six scatterplots labeled A through F. 
 
-
-.. dragndrop:: dnd-ex-1
-   :feedback: Feedback that is displayed if things are incorrectly matched.
+.. dragndrop:: dnd_scatterplot
+   :feedback: Try again!
    :match_1: A|||Positive, strong, nonlinear
    :match_2: B|||Positive, strong, linear
    :match_3: C|||Neither positive nor negative, strong, nonlinear
@@ -266,30 +178,8 @@ Question: Match each scatterplot below with its description.
    :match_5: E|||Positive, moderate, linear
    :match_6: F|||No relationship
 
-   Match each scatterplot from above with its description.
+   Match each scatterplot above with its description.
 
-1. Neither positive nor negative, strong, nonlinear
 
-   ::Middle left
-
-2. Positive, moderate, linear
-
-   ::Bottom left
-
-3. No relationship
-
-   ::Bottom right
-
-4. Negative, moderate, linear
-
-   ::Middle right
-
-5. Positive, strong, linear
-
-   ::Top right
-
-6. Positive, strong, nonlinear
-
-   ::Top left
 
 
